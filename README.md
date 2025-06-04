@@ -20,9 +20,9 @@ Sigue estos pasos para poner en marcha la página web en un contenedor Docker:
 
 1. Clonar el Repositorio
 Primero, clona este repositorio a tu máquina local:
+comando bash: git clone https://github.com/Marcoiannuzzi/TP--Primera-web-docker.git
 
-bash: git clone [TU_ENLACE_AL_REPOSITORIO]
-cd Primera-web-docker
+comando bash: cd Primera-web-docker
 
 2. Construir la Imagen Docker
 Una vez dentro del directorio del proyecto, construye la imagen Docker. Esto tomará el Dockerfile y creará la imagen necesaria para servir tu HTML.
